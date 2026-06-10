@@ -245,6 +245,12 @@
     <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.Realized.It.Was.an.Academy.Game.After.10.Years_03.c99.145.Ongoing.pdf" type="application/pdf"/>
   </entry>
   <entry>
+    <title>I Think I ve Become the Hero of a Second-Rate Web Novel</title>
+    <id>uuid:c284f50f631e460eba0917a00374f2a0</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.Think.I.ve.Become.the.Hero.of.a.Second-Rate.Web.Novel.c1.37.missing.c38.235.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
     <title>I Think My Fiance Has Regressed</title>
     <id>uuid:dba8e4200ecac0bd8c98f3666c62c230</id>
     <updated>2026-06-10T00:00:00Z</updated>
@@ -279,6 +285,42 @@
     <id>uuid:7fee20d5228415a1183c2ad4a4f3595e</id>
     <updated>2026-06-10T00:00:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.Was.Reincarnated.as.a.Baron.in.Another.World.c1.286.END.NovelpiaGlobal.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 01 Sky Demon Order</title>
+    <id>uuid:2d71f945c6241b8c3f746afb95cb27b3</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_01.Sky.Demon.Order.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 02 Sky Demon Order</title>
+    <id>uuid:915c19f87e42a58ec07ec234ce94034f</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_02.Sky.Demon.Order.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 03 Sky Demon Order</title>
+    <id>uuid:2a13e8f3a9ed6f7da9477034c7fc4133</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_03.Sky.Demon.Order.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 04 Sky Demon Order</title>
+    <id>uuid:01a4a66569c19b374da7a803408f3c9f</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_04.Sky.Demon.Order.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 05 Sky Demon Order</title>
+    <id>uuid:5946bd2fd6ccab027f5bd6a79d19e72d</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_05.Sky.Demon.Order.pdf" type="application/pdf"/>
+  </entry>
+  <entry>
+    <title>I was Thrown into an Unfamiliar Manga 06 Novelpia Global</title>
+    <id>uuid:2f733928f7467d68ddc972202b0d9295</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/I.was.Thrown.into.an.Unfamiliar.Manga_06.Novelpia.Global.c252.400.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>Im the Slit-Eyed Character at the Academy 03</title>
@@ -431,10 +473,22 @@
     <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/Rehabilitating.the.Villainess.Sickrat.c1.75.Complete.NovelpiaGlobal.epub" type="application/epub+zip"/>
   </entry>
   <entry>
+    <title>Reincarnated User Manual</title>
+    <id>uuid:c81558558f7809b646833f02b5e5222d</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/Reincarnated.User.Manual.c1.399.Complete.Sky.Demon.Order.TL.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
     <title>Saintess You Should Quit Smoking</title>
     <id>uuid:7f6ecced6393ac2ecd4a90686523ef6f</id>
     <updated>2026-06-10T00:00:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/Saintess.You.Should.Quit.Smoking.c1.126.Complete.NovelpiaGlobal.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Seems Like I ve Become the Hero of a RAO Web Novel</title>
+    <id>uuid:1ecb6376c33c453030220cf2ed5753c0</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/Seems.Like.I.ve.Become.the.Hero.of.a.RAO.Web.Novel.c1.235.Complete.NovelpiaGlobal.epub" type="application/epub+zip"/>
   </entry>
   <entry>
     <title>Sex Slave Yet Seemingly Loved</title>
@@ -573,6 +627,12 @@
     <id>uuid:0d1aa996b137c847a25afe29d8c08e1c</id>
     <updated>2026-06-10T00:00:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/The.Imperial.Princesses.Are.Obsessed.With.Their.Knight.c327.340.NovelpiaGlobal.revised.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>The Main Character is the Villain</title>
+    <id>uuid:ca12a2b037944452295bfa96e21a3e28</id>
+    <updated>2026-06-10T00:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://mid-anxious.github.io/KR-Archive/releases/download/v1.0-Library/The.Main.Character.is.the.Villain.c1.515.END.pdf" type="application/pdf"/>
   </entry>
   <entry>
     <title>The Main Heroines Are Trying to Kill Me</title>
